@@ -1,3 +1,3 @@
-# New-Resourcepack
+# Argon
  
-Yet to be named.
+A Resourcepack.
