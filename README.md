@@ -1,3 +1,3 @@
 # Argon
  
-A Resourcepack.
+A Resourcepack with LabPBR support.
